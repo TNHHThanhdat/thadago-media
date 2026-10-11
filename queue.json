@@ -1,0 +1,14 @@
+{
+  "updated_at": "2026-10-11T18:05:00+02:00",
+  "note": "Hang cho dang tu dong cho Make. Do AI Thadago ghi. Chi bai da duoc anh Hieu duyet thiet ke.",
+  "posts": [
+    {
+      "id": "test-1",
+      "channel": "TEST",
+      "publish_at": "2026-10-11T18:00:00+02:00",
+      "caption": "Bai thu he thong - khong dang.",
+      "images": ["https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/test_bai1.png"],
+      "image_count": 1
+    }
+  ]
+}
