@@ -1,7 +1,17 @@
 {
- "updated_at": "2026-10-12T16:15:00+02:00",
+ "updated_at": "2026-10-12T22:55:00+02:00",
  "note": "Hang cho dang tu dong cho Make. Do AI Thadago ghi. Chi bai da duoc anh Hieu duyet thiet ke.",
  "posts": [
+  {
+   "id": "p1013-fb",
+   "channel": "Facebook",
+   "publish_at": "2026-10-13T11:30:00+07:00",
+   "caption": "Thadago hân hạnh chào bạn.\n\nLà một công ty công nghệ tại Việt Nam, chúng tôi mong muốn đưa công nghệ đến gần hơn với mọi người, đem lại các giá trị tích cực và giải quyết các vấn đề cho cộng đồng.\n\nChúng tôi làm việc theo ba nguyên tắc:\nThứ nhất, phát triển trí tuệ nhân tạo dễ tiếp cận, phù hợp với mọi đối tượng.\nThứ hai, công nghệ số gắn liền với văn hóa và giá trị cốt lõi.\nThứ ba, luôn luôn lắng nghe và luôn luôn thấu hiểu.\n\nCảm ơn bạn đã ghé thăm. Hãy theo dõi trang để đồng hành cùng Thadago từ những ngày đầu tiên.\n\nThadago — Công nghệ cho cuộc sống trọn vẹn.\n\n#Thadago #AIchoDoiSong #ChuyenDoiSo",
+   "images": [
+    "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1013-fb_1.jpg"
+   ],
+   "image_count": 1
+  },
   {
    "id": "p1015-fb",
    "channel": "Facebook",
