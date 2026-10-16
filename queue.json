@@ -1,42 +1,32 @@
 {
- "updated_at": "2026-10-12T22:55:00+02:00",
- "note": "Hang cho dang tu dong cho Make. Do AI Thadago ghi. Chi bai da duoc anh Hieu duyet thiet ke.",
- "posts": [
-  {
-   "id": "p1013-fb",
-   "channel": "Facebook",
-   "publish_at": "2026-10-13T11:30:00+07:00",
-   "caption": "Thadago hân hạnh chào bạn.\n\nLà một công ty công nghệ tại Việt Nam, chúng tôi mong muốn đưa công nghệ đến gần hơn với mọi người, đem lại các giá trị tích cực và giải quyết các vấn đề cho cộng đồng.\n\nChúng tôi làm việc theo ba nguyên tắc:\nThứ nhất, phát triển trí tuệ nhân tạo dễ tiếp cận, phù hợp với mọi đối tượng.\nThứ hai, công nghệ số gắn liền với văn hóa và giá trị cốt lõi.\nThứ ba, luôn luôn lắng nghe và luôn luôn thấu hiểu.\n\nCảm ơn bạn đã ghé thăm. Hãy theo dõi trang để đồng hành cùng Thadago từ những ngày đầu tiên.\n\nThadago — Công nghệ cho cuộc sống trọn vẹn.\n\n#Thadago #AIchoDoiSong #ChuyenDoiSo",
-   "images": [
-    "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1013-fb_1.jpg"
-   ],
-   "image_count": 1
-  },
-  {
-   "id": "p1015-fb",
-   "channel": "Facebook",
-   "publish_at": "2026-10-15T11:30:00+07:00",
-   "caption": "Bạn có đang mở ba, bốn file chỉ để trả lời một câu hỏi về đơn hàng?\n\nNhiều doanh nghiệp nhỏ lưu đơn hàng, kho và thông tin đối tác ở những nơi khác nhau. Mỗi lần cần số liệu, chủ doanh nghiệp phải gom lại từ đầu. Việc này tốn thời gian và dễ sai.\n\nThadago đang phát triển Phần mềm Hỗ trợ Doanh nghiệp để giải quyết vấn đề này. Phần mềm được thiết kế để đưa đơn hàng, kho và đối tác về một màn hình.\n\nPhần mềm được thiết kế để nhận đơn từ website, email hoặc nhập tay. Phần mềm cũng được thiết kế để kiểm tồn kho cho từng đơn. Ngoài ra, phần mềm được thiết kế để cảnh báo khi hàng sắp hết.\n\nMục tiêu của chúng tôi rất đơn giản. Chủ doanh nghiệp có thể biết kho còn gì và việc nào đang chạy trên một màn hình.\n\nMời bạn xem các khung ảnh để hiểu cách phần mềm được thiết kế. Sản phẩm đang trong giai đoạn phát triển.\n\nThadago — Công nghệ cho cuộc sống trọn vẹn.\n\n#Thadago #PhanMemDoanhNghiep #QuanLyKho #ChuyenDoiSo",
-   "images": [
-    "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1015-fb_1.jpg",
-    "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1015-fb_2.jpg",
-    "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1015-fb_3.jpg",
-    "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1015-fb_4.jpg",
-    "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1015-fb_5.jpg"
-   ],
-   "image_count": 5
-  },
-  {
-   "id": "p1016-ig",
-   "channel": "Instagram",
-   "publish_at": "2026-10-16T19:30:00+07:00",
-   "caption": "Cùng một bàn ăn, nhưng mỗi người lại nhìn vào một màn hình. Tối nay, thử cất điện thoại vào giỏ trong một giờ. Bữa tối sẽ trọn vẹn hơn khi cả nhà thật sự ở bên nhau.\n\n#Thadago #GiaDinh #BuaToiGiaDinh #CuocSongTronVen",
-   "images": [
-    "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1016-ig_1.jpg",
-    "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1016-ig_2.jpg",
-    "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1016-ig_3.jpg"
-   ],
-   "image_count": 3
-  }
- ]
+  "updated_at": "2026-10-16T07:58:00+02:00",
+  "note": "Hang cho dang tu dong cho Make. Do AI Thadago ghi. Chi bai da duoc anh Hieu duyet thiet ke.",
+  "posts": [
+    {
+      "id": "p1015-fb",
+      "channel": "Facebook",
+      "publish_at": "2026-10-15T11:30:00+07:00",
+      "caption": "Bạn có đang mở ba, bốn file chỉ để trả lời một câu hỏi về đơn hàng?\n\nNhiều doanh nghiệp nhỏ lưu đơn hàng, kho và thông tin đối tác ở những nơi khác nhau. Mỗi lần cần số liệu, chủ doanh nghiệp phải gom lại từ đầu. Việc này tốn thời gian và dễ sai.\n\nThadago đang phát triển Phần mềm Hỗ trợ Doanh nghiệp để giải quyết vấn đề này. Phần mềm được thiết kế để đưa đơn hàng, kho và đối tác về một màn hình.\n\nPhần mềm được thiết kế để nhận đơn từ website, email hoặc nhập tay. Phần mềm cũng được thiết kế để kiểm tồn kho cho từng đơn. Ngoài ra, phần mềm được thiết kế để cảnh báo khi hàng sắp hết.\n\nMục tiêu của chúng tôi rất đơn giản. Chủ doanh nghiệp có thể biết kho còn gì và việc nào đang chạy trên một màn hình.\n\nMời bạn xem các khung ảnh để hiểu cách phần mềm được thiết kế. Sản phẩm đang trong giai đoạn phát triển.\n\nThadago — Công nghệ cho cuộc sống trọn vẹn.\n\n#Thadago #PhanMemDoanhNghiep #QuanLyKho #ChuyenDoiSo",
+      "images": [
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1015-fb_1.jpg",
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1015-fb_2.jpg",
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1015-fb_3.jpg",
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1015-fb_4.jpg",
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1015-fb_5.jpg"
+      ],
+      "image_count": 5
+    },
+    {
+      "id": "p1016-ig",
+      "channel": "Instagram",
+      "publish_at": "2026-10-16T19:30:00+07:00",
+      "caption": "Cùng một bàn ăn, nhưng mỗi người lại nhìn vào một màn hình. Tối nay, thử cất điện thoại vào giỏ trong một giờ. Bữa tối sẽ trọn vẹn hơn khi cả nhà thật sự ở bên nhau.\n\n#Thadago #GiaDinh #BuaToiGiaDinh #CuocSongTronVen",
+      "images": [
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1016-ig_1.jpg",
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1016-ig_2.jpg",
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1016-ig_3.jpg"
+      ],
+      "image_count": 3
+    }
+  ]
 }
