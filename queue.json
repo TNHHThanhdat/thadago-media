@@ -1,19 +1,7 @@
 {
-  "updated_at": "2026-10-18T07:55:00+02:00",
+  "updated_at": "2026-10-19T16:55:00+02:00",
   "note": "Hang cho dang tu dong cho Make. Do AI Thadago ghi. Chi bai da duoc anh Hieu duyet thiet ke.",
   "posts": [
-    {
-      "id": "p1016-ig",
-      "channel": "Instagram",
-      "publish_at": "2026-10-16T19:30:00+07:00",
-      "caption": "Cùng một bàn ăn, nhưng mỗi người lại nhìn vào một màn hình. Tối nay, thử cất điện thoại vào giỏ trong một giờ. Bữa tối sẽ trọn vẹn hơn khi cả nhà thật sự ở bên nhau.\n\n#Thadago #GiaDinh #BuaToiGiaDinh #CuocSongTronVen",
-      "images": [
-        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1016-ig_1.jpg",
-        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1016-ig_2.jpg",
-        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1016-ig_3.jpg"
-      ],
-      "image_count": 3
-    },
     {
       "id": "p1020-ig",
       "channel": "Instagram",
@@ -31,6 +19,16 @@
       "caption": "Tối nay, thử tắt màn hình một giờ và mở cửa sổ cho không khí mát vào. Một giờ yên tĩnh giúp cả nhà có thêm thời gian trò chuyện với nhau.\n\n#Thadago #CuocSongTronVen #GiaDinh #ThoiGianGiaDinh",
       "images": [
         "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1023-ig_1.jpg"
+      ],
+      "image_count": 1
+    },
+    {
+      "id": "p1022-fb",
+      "channel": "Facebook",
+      "publish_at": "2026-10-22T11:30:00+07:00",
+      "caption": "Bạn có phải gọi điện nhiều lần chỉ để hỏi một việc đã xong chưa?\n\nTrong nhiều doanh nghiệp nhỏ, việc được giao qua điện thoại hoặc tin nhắn. Người giao việc khó biết ai đang làm gì. Người nhận việc cũng dễ quên hoặc hiểu sai.\n\nPhần mềm Hỗ trợ Doanh nghiệp của Thadago được thiết kế để tự giao việc cho đúng người phụ trách. Mọi việc nằm trên một phần mềm chung.\n\nPhần mềm cũng được thiết kế để nhân viên xác nhận việc đã xong bằng cách quét mã. Phần mềm được thiết kế để giúp chủ doanh nghiệp xem việc nào đã xong và việc nào đang làm.\n\nMục tiêu của chúng tôi là bớt những cuộc gọi hỏi việc, để mọi người có thêm thời gian cho công việc chính.\n\nSản phẩm đang trong giai đoạn phát triển.\n\nThadago — Công nghệ cho cuộc sống trọn vẹn.\n\n#Thadago #PhanMemDoanhNghiep #QuanLyCongViec #ChuyenDoiSo",
+      "images": [
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1022-fb_1.jpg"
       ],
       "image_count": 1
     }
