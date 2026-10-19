@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T16:55:00+02:00",
+  "updated_at": "2026-10-19T22:55:00+02:00",
   "note": "Hang cho dang tu dong cho Make. Do AI Thadago ghi. Chi bai da duoc anh Hieu duyet thiet ke.",
   "posts": [
     {
@@ -31,6 +31,21 @@
         "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1022-fb_1.jpg"
       ],
       "image_count": 1
+    },
+    {
+      "id": "p1020-fb",
+      "channel": "Facebook",
+      "publish_at": "2026-10-20T11:30:00+07:00",
+      "caption": "Trước khi gọi điện hay nhắn tin, khách hàng thường mở website của bạn. Họ đang tìm gì ở đó?\n\nThứ nhất, nếu bạn có cửa hàng, khách sẽ tìm địa chỉ rõ ràng. Một bản đồ nhỏ giúp khách biết đường đến.\n\nThứ hai, khách xem giờ mở cửa. Giờ mở cửa cần đúng và được cập nhật vào ngày lễ.\n\nThứ ba, khách muốn biết bạn bán gì. Mỗi sản phẩm hoặc dịch vụ nên có hình và mô tả ngắn.\n\nThứ tư, khách cần một cách liên hệ dễ dàng. Số điện thoại, email hoặc biểu mẫu nên nằm ở chỗ dễ thấy.\n\nThứ năm, website cần hiển thị tốt trên điện thoại. Nhiều khách mở website ngay trên điện thoại của họ.\n\nBạn hãy thử mở website của mình trên điện thoại và kiểm tra 5 điều này.\n\nThadago thiết kế website cho doanh nghiệp.\n\nThadago — Công nghệ cho cuộc sống trọn vẹn.\n\n#Thadago #ThietKeWebsite #ChuyenDoiSo #DoanhNghiepNho",
+      "images": [
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1020-fb_1.jpg",
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1020-fb_2.jpg",
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1020-fb_3.jpg",
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1020-fb_4.jpg",
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1020-fb_5.jpg",
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1020-fb_6.jpg"
+      ],
+      "image_count": 6
     }
   ]
 }
