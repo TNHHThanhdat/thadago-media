@@ -1,17 +1,7 @@
 {
-  "updated_at": "2026-10-25T21:55:19+01:00",
+  "updated_at": "2026-10-26T16:55:00+01:00",
   "note": "Hang cho dang tu dong cho Make. Do AI Thadago ghi. Chi bai da duoc anh Hieu duyet thiet ke.",
   "posts": [
-    {
-      "id": "p1023-ig",
-      "channel": "Instagram",
-      "publish_at": "2026-10-23T19:30:00+07:00",
-      "caption": "Tối nay, thử tắt màn hình một giờ và mở cửa sổ cho không khí mát vào. Một giờ yên tĩnh giúp cả nhà có thêm thời gian trò chuyện với nhau.\n\n#Thadago #CuocSongTronVen #GiaDinh #ThoiGianGiaDinh",
-      "images": [
-        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1023-ig_1.jpg"
-      ],
-      "image_count": 1
-    },
     {
       "id": "p1026-fb",
       "channel": "Facebook",
