@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-10-26T16:55:00+01:00",
+  "updated_at": "2026-10-29T07:55:00+01:00",
   "note": "Hang cho dang tu dong cho Make. Do AI Thadago ghi. Chi bai da duoc anh Hieu duyet thiet ke.",
   "posts": [
-    {
-      "id": "p1026-fb",
-      "channel": "Facebook",
-      "publish_at": "2026-10-26T11:30:00+07:00",
-      "caption": "Bạn đã từng mất một tệp quan trọng chỉ vì máy tính bị hỏng?\n\nMất dữ liệu thường không đến từ một sự cố lớn. Mất dữ liệu thường đến từ những thói quen nhỏ bị bỏ qua. Dưới đây là ba thói quen sao lưu đơn giản cho doanh nghiệp nhỏ.\n\nThói quen thứ nhất: lưu dữ liệu ở hai nơi khác nhau. Ví dụ, bạn giữ một bản trên máy tính. Bạn giữ bản thứ hai trên ổ cứng ngoài hoặc dịch vụ lưu trữ trực tuyến.\n\nThói quen thứ hai: sao lưu theo một lịch cố định. Bạn có thể chọn một ngày trong tuần và đặt lời nhắc trên điện thoại.\n\nThói quen thứ ba: mỗi tháng, hãy thử mở lại một bản sao lưu. Bản sao lưu chỉ có giá trị khi bạn mở lại được.\n\nHãy lưu bài này để kiểm tra lại thói quen sao lưu của doanh nghiệp bạn.\n\nThadago — Công nghệ cho cuộc sống trọn vẹn.\n\n#Thadago #ChuyenDoiSo #DoanhNghiepNho #SaoLuuDuLieu",
-      "images": [
-        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1026-fb_1.jpg",
-        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1026-fb_2.jpg",
-        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1026-fb_3.jpg",
-        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1026-fb_4.jpg",
-        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1026-fb_5.jpg"
-      ],
-      "image_count": 5
-    },
     {
       "id": "p1027-ig",
       "channel": "Instagram",
