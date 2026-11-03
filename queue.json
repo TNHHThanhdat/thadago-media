@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T13:45:00+01:00",
+  "updated_at": "2026-11-03T15:10:00+01:00",
   "note": "Hang cho dang tu dong cho Make. Do AI Thadago ghi. Chi bai da duoc anh Hieu duyet thiet ke.",
   "posts": [
     {
@@ -9,6 +9,40 @@
       "caption": "Một cuộc gọi mười phút mỗi tuần có thể làm ông bà vui cả ngày. Tối nay, bạn hãy gọi cho ông bà sau bữa cơm nhé.\n\n#Thadago #CuocSongTronVen #GiaDinh #OngBa",
       "images": [
         "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1103-ig_1.jpg"
+      ],
+      "image_count": 1
+    },
+    {
+      "id": "p1102-fb",
+      "channel": "Facebook",
+      "publish_at": "2026-11-04T11:30:00+07:00",
+      "caption": "Khách hàng nhận được hai email chào hàng. Một email gửi từ địa chỉ miễn phí. Một email gửi từ địa chỉ mang tên công ty.\n\nBạn nghĩ khách sẽ mở email nào trước?\n\nEmail theo tên miền riêng là địa chỉ email có tên doanh nghiệp của bạn ở phía sau. Ví dụ, nhân viên tên Lan có địa chỉ lan@tendoanhnghiep.vn.\n\nLợi ích thứ nhất: khách nhận ra doanh nghiệp của bạn ngay từ dòng người gửi.\n\nLợi ích thứ hai: địa chỉ email dễ nhớ hơn. Địa chỉ email và địa chỉ website có cùng một tên.\n\nLợi ích thứ ba: doanh nghiệp giữ quyền quản lý hộp thư. Khi một nhân viên nghỉ việc, doanh nghiệp vẫn có thể giữ được thư của khách.\n\nĐể có email theo tên miền riêng, doanh nghiệp cần có một tên miền. Tên miền thường đi cùng website của doanh nghiệp.\n\nThadago thiết kế website cho doanh nghiệp. Hãy lưu bài này nếu bạn đang chuẩn bị website cho doanh nghiệp của mình.\n\nThadago — Công nghệ cho cuộc sống trọn vẹn.\n\n#Thadago #ThietKeWebsite #DoanhNghiepNho #EmailTenMien",
+      "images": [
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1102-fb_1.jpg",
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1102-fb_2.jpg",
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1102-fb_3.jpg",
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1102-fb_4.jpg",
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1102-fb_5.jpg"
+      ],
+      "image_count": 5
+    },
+    {
+      "id": "p1105-fb",
+      "channel": "Facebook",
+      "publish_at": "2026-11-05T11:30:00+07:00",
+      "caption": "Doanh nghiệp của bạn vừa bán hàng, vừa làm dịch vụ?\n\nNhiều doanh nghiệp nhỏ vừa bán sản phẩm, vừa nhận lắp đặt, sửa chữa hoặc bảo trì. Đơn hàng được ghi ở một nơi.\n\nLịch làm dịch vụ lại được ghi ở nơi khác. Chủ doanh nghiệp phải mở nhiều sổ để biết toàn bộ công việc.\n\nPhần mềm Hỗ trợ Doanh nghiệp của Thadago được thiết kế để quản lý cả hàng hóa lẫn dịch vụ trên một hệ thống.\n\nĐơn bán hàng và việc dịch vụ được thiết kế để nằm trên cùng một dữ liệu chung. Phần mềm giúp chủ doanh nghiệp xem toàn bộ hoạt động trên một màn hình.\n\nPhần mềm cũng được thiết kế để nhận đơn từ website, từ email, hoặc để nhân viên nhập đơn bằng tay.\n\nMục tiêu của chúng tôi là giúp chủ doanh nghiệp bớt mở nhiều sổ, để có thêm thời gian cho khách hàng.\n\nSản phẩm đang trong giai đoạn phát triển.\n\nThadago — Công nghệ cho cuộc sống trọn vẹn.\n\n#Thadago #PhanMemDoanhNghiep #DoanhNghiepNho #ChuyenDoiSo",
+      "images": [
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1105-fb_1.jpg"
+      ],
+      "image_count": 1
+    },
+    {
+      "id": "p1106-ig",
+      "channel": "Instagram",
+      "publish_at": "2026-11-06T19:30:00+07:00",
+      "caption": "Một chậu cây nhỏ làm góc làm việc trở nên gần gũi hơn. Khi ngồi vào bàn làm việc, bạn hãy dành một phút chăm cây và nhìn vào khoảng xanh trên bàn.\n\n#Thadago #CuocSongTronVen #SongXanh #GocLamViec",
+      "images": [
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1106-ig_1.jpg"
       ],
       "image_count": 1
     }
