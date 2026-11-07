@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-11-06T16:55:00+01:00",
+  "updated_at": "2026-11-07T07:58:00+01:00",
   "note": "Hang cho dang tu dong cho Make. Do AI Thadago ghi. Chi bai da duoc anh Hieu duyet thiet ke.",
   "posts": [
-    {
-      "id": "p1102-fb",
-      "channel": "Facebook",
-      "publish_at": "2026-11-04T11:30:00+07:00",
-      "caption": "Khách hàng nhận được hai email chào hàng. Một email gửi từ địa chỉ miễn phí. Một email gửi từ địa chỉ mang tên công ty.\n\nBạn nghĩ khách sẽ mở email nào trước?\n\nEmail theo tên miền riêng là địa chỉ email có tên doanh nghiệp của bạn ở phía sau. Ví dụ, nhân viên tên Lan có địa chỉ lan@tendoanhnghiep.vn.\n\nLợi ích thứ nhất: khách nhận ra doanh nghiệp của bạn ngay từ dòng người gửi.\n\nLợi ích thứ hai: địa chỉ email dễ nhớ hơn. Địa chỉ email và địa chỉ website có cùng một tên.\n\nLợi ích thứ ba: doanh nghiệp giữ quyền quản lý hộp thư. Khi một nhân viên nghỉ việc, doanh nghiệp vẫn có thể giữ được thư của khách.\n\nĐể có email theo tên miền riêng, doanh nghiệp cần có một tên miền. Tên miền thường đi cùng website của doanh nghiệp.\n\nThadago thiết kế website cho doanh nghiệp. Hãy lưu bài này nếu bạn đang chuẩn bị website cho doanh nghiệp của mình.\n\nThadago — Công nghệ cho cuộc sống trọn vẹn.\n\n#Thadago #ThietKeWebsite #DoanhNghiepNho #EmailTenMien",
-      "images": [
-        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1102-fb_1.jpg",
-        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1102-fb_2.jpg",
-        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1102-fb_3.jpg",
-        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1102-fb_4.jpg",
-        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1102-fb_5.jpg"
-      ],
-      "image_count": 5
-    },
     {
       "id": "p1105-fb",
       "channel": "Facebook",
