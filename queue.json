@@ -1,17 +1,7 @@
 {
-  "updated_at": "2026-11-07T07:58:00+01:00",
+  "updated_at": "2026-11-08T07:55:00+01:00",
   "note": "Hang cho dang tu dong cho Make. Do AI Thadago ghi. Chi bai da duoc anh Hieu duyet thiet ke.",
   "posts": [
-    {
-      "id": "p1105-fb",
-      "channel": "Facebook",
-      "publish_at": "2026-11-05T11:30:00+07:00",
-      "caption": "Doanh nghiệp của bạn vừa bán hàng, vừa làm dịch vụ?\n\nNhiều doanh nghiệp nhỏ vừa bán sản phẩm, vừa nhận lắp đặt, sửa chữa hoặc bảo trì. Đơn hàng được ghi ở một nơi.\n\nLịch làm dịch vụ lại được ghi ở nơi khác. Chủ doanh nghiệp phải mở nhiều sổ để biết toàn bộ công việc.\n\nPhần mềm Hỗ trợ Doanh nghiệp của Thadago được thiết kế để quản lý cả hàng hóa lẫn dịch vụ trên một hệ thống.\n\nĐơn bán hàng và việc dịch vụ được thiết kế để nằm trên cùng một dữ liệu chung. Phần mềm giúp chủ doanh nghiệp xem toàn bộ hoạt động trên một màn hình.\n\nPhần mềm cũng được thiết kế để nhận đơn từ website, từ email, hoặc để nhân viên nhập đơn bằng tay.\n\nMục tiêu của chúng tôi là giúp chủ doanh nghiệp bớt mở nhiều sổ, để có thêm thời gian cho khách hàng.\n\nSản phẩm đang trong giai đoạn phát triển.\n\nThadago — Công nghệ cho cuộc sống trọn vẹn.\n\n#Thadago #PhanMemDoanhNghiep #DoanhNghiepNho #ChuyenDoiSo",
-      "images": [
-        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1105-fb_1.jpg"
-      ],
-      "image_count": 1
-    },
     {
       "id": "p1106-ig",
       "channel": "Instagram",
