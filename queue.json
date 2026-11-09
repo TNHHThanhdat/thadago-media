@@ -1,16 +1,5 @@
 {
-  "updated_at": "2026-11-08T07:55:00+01:00",
+  "updated_at": "2026-11-09T16:55:00+01:00",
   "note": "Hang cho dang tu dong cho Make. Do AI Thadago ghi. Chi bai da duoc anh Hieu duyet thiet ke.",
-  "posts": [
-    {
-      "id": "p1106-ig",
-      "channel": "Instagram",
-      "publish_at": "2026-11-06T19:30:00+07:00",
-      "caption": "Một chậu cây nhỏ làm góc làm việc trở nên gần gũi hơn. Khi ngồi vào bàn làm việc, bạn hãy dành một phút chăm cây và nhìn vào khoảng xanh trên bàn.\n\n#Thadago #CuocSongTronVen #SongXanh #GocLamViec",
-      "images": [
-        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1106-ig_1.jpg"
-      ],
-      "image_count": 1
-    }
-  ]
+  "posts": []
 }
