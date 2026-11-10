@@ -1,5 +1,98 @@
 {
-  "updated_at": "2026-11-09T16:55:00+01:00",
+  "updated_at": "2026-11-10T09:50:00+01:00",
   "note": "Hang cho dang tu dong cho Make. Do AI Thadago ghi. Chi bai da duoc anh Hieu duyet thiet ke.",
-  "posts": []
+  "posts": [
+    {
+      "id": "p1110-ig",
+      "channel": "Instagram",
+      "publish_at": "2026-11-10T19:30:00+07:00",
+      "caption": "Bữa tối ngon hơn khi cả nhà cùng vào bếp. Tối nay, bạn hãy để mỗi người làm một việc nhỏ, từ rửa rau đến dọn bàn.\n\n#Thadago #CuocSongTronVen #GiaDinh #BuaComGiaDinh",
+      "images": [
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1110-ig_1.jpg"
+      ],
+      "image_count": 1
+    },
+    {
+      "id": "p1112-fb",
+      "channel": "Facebook",
+      "publish_at": "2026-11-12T11:30:00+07:00",
+      "caption": "Bạn có thường phải đếm lại kho trước khi trả lời khách?\n\nNhiều doanh nghiệp nhỏ ghi hàng nhập và hàng bán ở nhiều nơi. Khi khách hỏi còn hàng không, chủ doanh nghiệp phải kiểm tra lại từng kệ.\n\nPhần mềm Hỗ trợ Doanh nghiệp của Thadago được thiết kế để giúp bạn biết kho còn gì trên một màn hình.\n\nPhần mềm được thiết kế để cập nhật số tồn kho sau mỗi đơn bán và mỗi lần nhập hàng. Số trên màn hình được thiết kế để bám sát hàng thật trong kho.\n\nKhi một mặt hàng sắp hết, phần mềm được thiết kế để đưa ra cảnh báo. Phần mềm cũng được thiết kế để gợi ý mặt hàng nên nhập thêm.\n\nMục tiêu của chúng tôi là giúp chủ doanh nghiệp bớt thời gian đếm kho, để có thêm thời gian cho khách hàng.\n\nSản phẩm đang phát triển.\n\nThadago — Công nghệ cho cuộc sống trọn vẹn.\n\n#Thadago #PhanMemDoanhNghiep #QuanLyKho #DoanhNghiepNho",
+      "images": [
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1112-fb_1.jpg"
+      ],
+      "image_count": 1
+    },
+    {
+      "id": "p1113-ig",
+      "channel": "Instagram",
+      "publish_at": "2026-11-13T19:30:00+07:00",
+      "caption": "Sáng nay, bạn hãy thử hỏi người bán xem rau được trồng ở đâu. Một câu hỏi nhỏ giúp bạn hiểu thêm về bữa ăn của gia đình.\n\n#Thadago #CuocSongTronVen #SongXanh #DiCho",
+      "images": [
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1113-ig_1.jpg"
+      ],
+      "image_count": 1
+    },
+    {
+      "id": "p1116-fb",
+      "channel": "Facebook",
+      "publish_at": "2026-11-16T11:30:00+07:00",
+      "caption": "Website của bạn xem tốt trên điện thoại chưa?\n\nNhiều khách tìm cửa hàng bằng điện thoại. Nếu trang khó đọc, khách có thể rời đi trước khi liên hệ.\n\nBạn có thể tự kiểm tra 4 điều sau trong 5 phút.\n\n1. Chữ đọc được mà không cần phóng to. Bạn hãy mở website trên điện thoại và đọc thử một đoạn.\n\n2. Nút gọi điện và nút chỉ đường dễ bấm. Nút cần đủ lớn cho ngón tay.\n\n3. Giờ mở cửa và địa chỉ hiện ra ngay. Khách không nên phải tìm lâu.\n\n4. Trang mở nhanh. Bạn hãy thử mở website bằng mạng di động, không dùng wifi.\n\nNếu một điều chưa đạt, bạn hãy ghi lại và sửa từng điều một.\n\nThadago thiết kế website cho doanh nghiệp ở Việt Nam và doanh nghiệp ở Đức.\n\nThadago — Công nghệ cho cuộc sống trọn vẹn.\n\n#Thadago #ThietKeWebsite #DoanhNghiepNho #ChuyenDoiSo",
+      "images": [
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1116-fb_1.jpg",
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1116-fb_2.jpg",
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1116-fb_3.jpg",
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1116-fb_4.jpg",
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1116-fb_5.jpg"
+      ],
+      "image_count": 5
+    },
+    {
+      "id": "p1117-ig",
+      "channel": "Instagram",
+      "publish_at": "2026-11-17T19:30:00+07:00",
+      "caption": "Mười lăm phút đọc sách cùng con mỗi tối là món quà nhỏ cho cả hai. Tối nay, bạn hãy cất điện thoại và để con chọn cuốn sách.\n\n#Thadago #CuocSongTronVen #DocSachCungCon #GiaDinh",
+      "images": [
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1117-ig_1.jpg"
+      ],
+      "image_count": 1
+    },
+    {
+      "id": "p1119-fb",
+      "channel": "Facebook",
+      "publish_at": "2026-11-19T11:30:00+07:00",
+      "caption": "Mỗi ngày, khách có hỏi bạn cùng một câu nhiều lần không?\n\nNhiều doanh nghiệp nhỏ nhận những câu hỏi lặp lại mỗi ngày. Nếu có câu trả lời soạn sẵn, cả nhóm sẽ trả lời nhanh và giống nhau.\n\nBạn có thể bắt đầu với 5 câu khách thường hỏi:\n\n1. Cửa hàng mở cửa lúc mấy giờ?\n2. Sản phẩm này giá bao nhiêu?\n3. Cửa hàng có giao hàng không?\n4. Tôi có thể đổi hoặc trả hàng không?\n5. Tôi đặt lịch hẹn như thế nào?\n\nMỗi câu chỉ cần một câu trả lời ngắn và rõ. Bạn hãy lưu tất cả ở một chỗ để cả nhóm cùng dùng.\n\nCông cụ AI có thể giúp bạn soạn bản nháp. Người phụ trách vẫn nên đọc lại trước khi gửi cho khách.\n\nMỗi tháng, bạn hãy xem lại và cập nhật câu trả lời khi có thay đổi.\n\nThadago — Công nghệ cho cuộc sống trọn vẹn.\n\n#Thadago #VanHanhGon #DoanhNghiepNho #ChamSocKhachHang",
+      "images": [
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1119-fb_1.jpg",
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1119-fb_2.jpg",
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1119-fb_3.jpg",
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1119-fb_4.jpg",
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1119-fb_5.jpg"
+      ],
+      "image_count": 5
+    },
+    {
+      "id": "p1120-ig",
+      "channel": "Instagram",
+      "publish_at": "2026-11-20T19:30:00+07:00",
+      "caption": "Ngày 20/11, chúng ta cảm ơn thầy cô và những người đã dạy ta điều hay. Hôm nay, bạn hãy gửi một lời cảm ơn đến một người như vậy.\n\n#Thadago #NgayNhaGiaoVietNam #CuocSongTronVen #BietOn",
+      "images": [
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1120-ig_1.jpg"
+      ],
+      "image_count": 1
+    },
+    {
+      "id": "p1109-fb",
+      "channel": "Facebook",
+      "publish_at": "2026-11-23T11:30:00+07:00",
+      "caption": "Nhà nước đang hỗ trợ doanh nghiệp nhỏ và vừa chuyển đổi số. Đây là 3 điều chủ doanh nghiệp nên biết.\n\nThứ nhất, mục tiêu rất lớn. Theo Quyết định 433/QĐ-TTg ngày 16/3/2026, Nhà nước đặt mục tiêu hỗ trợ ít nhất 500.000 doanh nghiệp nhỏ và vừa đến năm 2030.\n\nThứ hai, đề án có mục tiêu riêng về công nghệ số và AI. Trong số đó, ít nhất 300.000 doanh nghiệp sẽ ứng dụng giải pháp số, nền tảng số hoặc trí tuệ nhân tạo.\n\nThứ ba, đề án có nội dung hỗ trợ tư vấn chuyển đổi số. Một số địa phương đã ban hành kế hoạch triển khai riêng.\n\nVậy nên bắt đầu từ đâu? Bạn hãy chọn một việc nhỏ đang làm bằng tay mỗi ngày, ví dụ ghi đơn hàng hoặc xếp lịch hẹn.\n\nBạn hãy đo thời gian làm việc đó trong một tuần. Sau đó, bạn thử một công cụ số cho riêng việc này và so sánh.\n\nBạn hãy theo dõi thông báo của cơ quan nhà nước tại địa phương để biết thông tin hỗ trợ.\n\nThadago — Công nghệ cho cuộc sống trọn vẹn.\n\n#Thadago #ChuyenDoiSo #DoanhNghiepNho #AIChoDoanhNghiep",
+      "images": [
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1109-fb_1.jpg",
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1109-fb_2.jpg",
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1109-fb_3.jpg",
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1109-fb_4.jpg",
+        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1109-fb_5.jpg"
+      ],
+      "image_count": 5
+    }
+  ]
 }
