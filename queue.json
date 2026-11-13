@@ -1,17 +1,7 @@
 {
-  "updated_at": "2026-11-10T09:50:00+01:00",
+  "updated_at": "2026-11-13T22:54:07+01:00",
   "note": "Hang cho dang tu dong cho Make. Do AI Thadago ghi. Chi bai da duoc anh Hieu duyet thiet ke.",
   "posts": [
-    {
-      "id": "p1110-ig",
-      "channel": "Instagram",
-      "publish_at": "2026-11-10T19:30:00+07:00",
-      "caption": "Bữa tối ngon hơn khi cả nhà cùng vào bếp. Tối nay, bạn hãy để mỗi người làm một việc nhỏ, từ rửa rau đến dọn bàn.\n\n#Thadago #CuocSongTronVen #GiaDinh #BuaComGiaDinh",
-      "images": [
-        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1110-ig_1.jpg"
-      ],
-      "image_count": 1
-    },
     {
       "id": "p1112-fb",
       "channel": "Facebook",
