@@ -1,17 +1,7 @@
 {
-  "updated_at": "2026-11-13T22:54:07+01:00",
+  "updated_at": "2026-11-15T07:54:16+01:00",
   "note": "Hang cho dang tu dong cho Make. Do AI Thadago ghi. Chi bai da duoc anh Hieu duyet thiet ke.",
   "posts": [
-    {
-      "id": "p1112-fb",
-      "channel": "Facebook",
-      "publish_at": "2026-11-12T11:30:00+07:00",
-      "caption": "Bạn có thường phải đếm lại kho trước khi trả lời khách?\n\nNhiều doanh nghiệp nhỏ ghi hàng nhập và hàng bán ở nhiều nơi. Khi khách hỏi còn hàng không, chủ doanh nghiệp phải kiểm tra lại từng kệ.\n\nPhần mềm Hỗ trợ Doanh nghiệp của Thadago được thiết kế để giúp bạn biết kho còn gì trên một màn hình.\n\nPhần mềm được thiết kế để cập nhật số tồn kho sau mỗi đơn bán và mỗi lần nhập hàng. Số trên màn hình được thiết kế để bám sát hàng thật trong kho.\n\nKhi một mặt hàng sắp hết, phần mềm được thiết kế để đưa ra cảnh báo. Phần mềm cũng được thiết kế để gợi ý mặt hàng nên nhập thêm.\n\nMục tiêu của chúng tôi là giúp chủ doanh nghiệp bớt thời gian đếm kho, để có thêm thời gian cho khách hàng.\n\nSản phẩm đang phát triển.\n\nThadago — Công nghệ cho cuộc sống trọn vẹn.\n\n#Thadago #PhanMemDoanhNghiep #QuanLyKho #DoanhNghiepNho",
-      "images": [
-        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1112-fb_1.jpg"
-      ],
-      "image_count": 1
-    },
     {
       "id": "p1113-ig",
       "channel": "Instagram",
