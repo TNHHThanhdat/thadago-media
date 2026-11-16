@@ -1,17 +1,7 @@
 {
-  "updated_at": "2026-11-15T07:54:16+01:00",
+  "updated_at": "2026-11-16T16:54:23+01:00",
   "note": "Hang cho dang tu dong cho Make. Do AI Thadago ghi. Chi bai da duoc anh Hieu duyet thiet ke.",
   "posts": [
-    {
-      "id": "p1113-ig",
-      "channel": "Instagram",
-      "publish_at": "2026-11-13T19:30:00+07:00",
-      "caption": "Sáng nay, bạn hãy thử hỏi người bán xem rau được trồng ở đâu. Một câu hỏi nhỏ giúp bạn hiểu thêm về bữa ăn của gia đình.\n\n#Thadago #CuocSongTronVen #SongXanh #DiCho",
-      "images": [
-        "https://raw.githubusercontent.com/TNHHThanhdat/thadago-media/main/media/p1113-ig_1.jpg"
-      ],
-      "image_count": 1
-    },
     {
       "id": "p1116-fb",
       "channel": "Facebook",
